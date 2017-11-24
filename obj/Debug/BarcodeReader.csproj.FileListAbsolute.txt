@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.exe.config
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.exe
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\bin\Debug\BarcodeReader.pdb
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\bin\Debug\AForge.Video.dll
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Form1.resources
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.Properties.Resources.resources
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csproj.GenerateResource.Cache
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.exe
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\obj\Debug\BarcodeReader.pdb
+C:\Users\asus\source\repos\BarcodeReader\BarcodeReader\bin\Debug\zxing.dll
